@@ -9,7 +9,7 @@ J'ai découvert il y a quelque temps [Godot Engine](https://godotengine.org/) lo
 
 ![Logo de Godot ENGINE](https://godotengine.org/themes/godotengine/assets/logo.svg)
 
-C'est une alternative intéressante a Unreal Engine et Unity 3D qui a l'avnatage d'avoir un éditeur qui fonctionne nativement sous Linux 
+C'est une alternative intéressante a Unreal Engine et Unity 3D qui a l'avantage d'avoir un éditeur qui fonctionne nativement sous Linux 
 
 Je vais vous faire un résumé des principaux avantages et inconvéniens :
 
@@ -36,4 +36,4 @@ Inconvénients :
 
 Au final mon avis sur Godot Engine est plutot mitigé . Il peut etre un moteur utile si vous voulez coder sous Linux ou utiliser un engine 100% open-source , mais pour l'instant Godot ne propose rien d'exceptionnel .
 
-NOTE : Cet article date de début 2017 , merci de ne pas tenir compte si il y a eu des changements
+Mise a jour 21/06/2018 : le split-screen et la VR sont présents dans la dernière version de Godot Engine (3.0) . Le reste semble toujours d'actualité
